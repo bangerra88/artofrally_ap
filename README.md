@@ -8,5 +8,5 @@ Instructions:
 
 Optional:
 - You can use the autotracking Poptracker pack for a nice visual representation of what is available to you while playing
-- Drop the artofrally_tracker_X.X.zip into poptracker/packs folder
+- Drop the artofrally_tracker_x.x.x.zip into poptracker/packs folder
 - Poptracker can be found here: https://poptracker.github.io
